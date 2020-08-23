@@ -1,0 +1,5 @@
+000001           Bill         Mammal           Goat              0              0
+000006        Matilda         Mammal           Goat              0              0
+000032          Kriss         Mammal           Goat              0              1
+000048            Tim         Mammal       Elephant              0              0
+000569        Milfred         Mammal          Moose              0              0

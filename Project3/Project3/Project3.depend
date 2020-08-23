@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1597628160 source:c:\users\craig\desktop\programmingpractice\project3\main.cpp
+	<iostream>
+	<string>
+	<ios>
+	<iomanip>
+	<windows.h>
+	<stdexcept>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iterator>
+

@@ -1,0 +1,18 @@
+Summarize the project and what problem it was solving.
+What did you do particularly well?
+Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+Did you find writing any piece of this code challenging, and how did you overcome this? What tools and/or resources are you adding to your support network?
+What skills from this project will be particularly transferable to other projects and/or course work?
+How did you make this program maintainable, readable, and adaptable?
+
+
+
+This project needed me to create a static clock which would accurately roll over when the added time exceeded 60 seconds/minutes; 
+a distinction between morning and night was needed too. I felt that the way I implemented the use of conditional statements to account for seconds rolling into minutes, 
+rolling into hours. However, the code could be enhanced by reading-in the current time; allowing the clock to function as a real clock. 
+This would allow for additional functionality such as an alarm to be created and implemented. The most challenging part of this project was the creation of the user interface; 
+done in console using C++ for this assignment. I had to look up different ways of formatting output in order to complete a user-friendly interface. 
+I reused the border function to create borders in the UI through out the other projects in this course. If, in the future, 
+I need to revisit this code to add a function such as an alarm it would be easy. This is because I left notes within my code, 
+used functions, and wrote the code in a modular fashion.
+
